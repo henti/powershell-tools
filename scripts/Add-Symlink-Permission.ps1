@@ -1,3 +1,4 @@
+# Author : https://dbondarchuk.com/2016/09/23/adding-permission-for-creating-symlink-using-powershell/
 function addSymLinkPermissions($accountToAdd){
     Write-Host "Checking SymLink permissions.."
     $sidstr = $null

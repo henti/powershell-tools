@@ -1,3 +1,7 @@
+#
+# Author:  John Howard, Microsoft Corporation. (Github @jhowardmsft)
+#
+
 # Download-File is a simple wrapper to get a file from somewhere (HTTP, SMB or local file path)
 # If file is supplied, the source is assumed to be a base path. Returns -1 if does not exist,
 # 0 if success. Throws error on other errors.
